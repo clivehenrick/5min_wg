@@ -1,7 +1,7 @@
 5min_wg
 =======
 
-Unity Based Project for the 5 min wargame
+Loom Based Project for the 5 min wargame
 
 This is a Loom Game Engine for the 5 min wargame to get both the game made for Cross platform Play and 
 to get my C# Chops up to speed.
