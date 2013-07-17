@@ -3,7 +3,7 @@
 
 Unity Based Project for the 5 min wargame
 
-This is a unity project for the 5 min wargame to get both the game made for Cross platform Play and 
+This is a Loom Game Engine for the 5 min wargame to get both the game made for Cross platform Play and 
 to get my C# Chops up to speed.
 
 Alpha:
