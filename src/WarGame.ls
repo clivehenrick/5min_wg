@@ -16,8 +16,8 @@ package
         {
             super.run();
         	stage.scaleMode = StageScaleMode.NONE;
-        	stage.stageWidth = 960;
-        	stage.stageHeight = 640;
+        	stage.stageWidth = 1280;	/* Default for a Galaxy nexus */
+        	stage.stageHeight = 720;
         	GameFacade.getInstance().sendNotification(StartupCommand.NAME, this);
        }
         
